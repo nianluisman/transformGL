@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  TansformationsGL.vcxproj -> C:\.Beunhaas\TansformationsGL\x64\Debug\TansformationsGL.exe
